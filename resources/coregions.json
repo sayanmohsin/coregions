@@ -1,0 +1,3816 @@
+[
+  {
+    "cca2": "AQ",
+    "ccn3": "010",
+    "cca3": "ATA",
+    "capital": "",
+    "region": "",
+    "subregion": "",
+    "borders": [],
+    "area": 14000000,
+    "common": "Antarctica",
+    "official": "Antarctica"
+  },
+  {
+    "cca2": "BV",
+    "ccn3": "074",
+    "cca3": "BVT",
+    "capital": "",
+    "region": "",
+    "subregion": "",
+    "borders": [],
+    "area": 49,
+    "common": "Bouvet Island",
+    "official": "Bouvet Island"
+  },
+  {
+    "cca2": "HM",
+    "ccn3": "334",
+    "cca3": "HMD",
+    "capital": "",
+    "region": "",
+    "subregion": "",
+    "borders": [],
+    "area": 412,
+    "common": "Heard Island and McDonald Islands",
+    "official": "Heard Island and McDonald Islands"
+  },
+  {
+    "cca2": "TF",
+    "ccn3": "260",
+    "cca3": "ATF",
+    "capital": "Port-aux-Français",
+    "region": "",
+    "subregion": "",
+    "borders": [],
+    "area": 7747,
+    "common": "French Southern and Antarctic Lands",
+    "official": "Territory of the French Southern and Antarctic Lands"
+  },
+  {
+    "cca2": "AO",
+    "ccn3": "024",
+    "cca3": "AGO",
+    "capital": "Luanda",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "borders": [
+      "COG",
+      "COD",
+      "ZMB",
+      "NAM"
+    ],
+    "area": 1246700,
+    "common": "Angola",
+    "official": "Republic of Angola"
+  },
+  {
+    "cca2": "BF",
+    "ccn3": "854",
+    "cca3": "BFA",
+    "capital": "Ouagadougou",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "borders": [
+      "BEN",
+      "CIV",
+      "GHA",
+      "MLI",
+      "NER",
+      "TGO"
+    ],
+    "area": 272967,
+    "common": "Burkina Faso",
+    "official": "Burkina Faso"
+  },
+  {
+    "cca2": "BI",
+    "ccn3": "108",
+    "cca3": "BDI",
+    "capital": "Bujumbura",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "borders": [
+      "COD",
+      "RWA",
+      "TZA"
+    ],
+    "area": 27834,
+    "common": "Burundi",
+    "official": "Republic of Burundi"
+  },
+  {
+    "cca2": "BJ",
+    "ccn3": "204",
+    "cca3": "BEN",
+    "capital": "Porto-Novo",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "borders": [
+      "BFA",
+      "NER",
+      "NGA",
+      "TGO"
+    ],
+    "area": 112622,
+    "common": "Benin",
+    "official": "Republic of Benin"
+  },
+  {
+    "cca2": "BW",
+    "ccn3": "072",
+    "cca3": "BWA",
+    "capital": "Gaborone",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "borders": [
+      "NAM",
+      "ZAF",
+      "ZMB",
+      "ZWE"
+    ],
+    "area": 582000,
+    "common": "Botswana",
+    "official": "Republic of Botswana"
+  },
+  {
+    "cca2": "CD",
+    "ccn3": "180",
+    "cca3": "COD",
+    "capital": "Kinshasa",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "borders": [
+      "AGO",
+      "BDI",
+      "CAF",
+      "COG",
+      "RWA",
+      "SSD",
+      "TZA",
+      "UGA",
+      "ZMB"
+    ],
+    "area": 2344858,
+    "common": "DR Congo",
+    "official": "Democratic Republic of the Congo"
+  },
+  {
+    "cca2": "CF",
+    "ccn3": "140",
+    "cca3": "CAF",
+    "capital": "Bangui",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "borders": [
+      "CMR",
+      "TCD",
+      "COD",
+      "COG",
+      "SSD",
+      "SDN"
+    ],
+    "area": 622984,
+    "common": "Central African Republic",
+    "official": "Central African Republic"
+  },
+  {
+    "cca2": "CG",
+    "ccn3": "178",
+    "cca3": "COG",
+    "capital": "Brazzaville",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "borders": [
+      "AGO",
+      "CMR",
+      "CAF",
+      "COD",
+      "GAB"
+    ],
+    "area": 342000,
+    "common": "Republic of the Congo",
+    "official": "Republic of the Congo"
+  },
+  {
+    "cca2": "CI",
+    "ccn3": "384",
+    "cca3": "CIV",
+    "capital": "Yamoussoukro",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "borders": [
+      "BFA",
+      "GHA",
+      "GIN",
+      "LBR",
+      "MLI"
+    ],
+    "area": 322463,
+    "common": "Ivory Coast",
+    "official": "Republic of Côte d'Ivoire"
+  },
+  {
+    "cca2": "CM",
+    "ccn3": "120",
+    "cca3": "CMR",
+    "capital": "Yaoundé",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "borders": [
+      "CAF",
+      "TCD",
+      "COG",
+      "GNQ",
+      "GAB",
+      "NGA"
+    ],
+    "area": 475442,
+    "common": "Cameroon",
+    "official": "Republic of Cameroon"
+  },
+  {
+    "cca2": "CV",
+    "ccn3": "132",
+    "cca3": "CPV",
+    "capital": "Praia",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "borders": [],
+    "area": 4033,
+    "common": "Cape Verde",
+    "official": "Republic of Cabo Verde"
+  },
+  {
+    "cca2": "DJ",
+    "ccn3": "262",
+    "cca3": "DJI",
+    "capital": "Djibouti",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "borders": [
+      "ERI",
+      "ETH",
+      "SOM"
+    ],
+    "area": 23200,
+    "common": "Djibouti",
+    "official": "Republic of Djibouti"
+  },
+  {
+    "cca2": "DZ",
+    "ccn3": "012",
+    "cca3": "DZA",
+    "capital": "Algiers",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "borders": [
+      "TUN",
+      "LBY",
+      "NER",
+      "ESH",
+      "MRT",
+      "MLI",
+      "MAR"
+    ],
+    "area": 2381741,
+    "common": "Algeria",
+    "official": "People's Democratic Republic of Algeria"
+  },
+  {
+    "cca2": "EG",
+    "ccn3": "818",
+    "cca3": "EGY",
+    "capital": "Cairo",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "borders": [
+      "ISR",
+      "LBY",
+      "SDN"
+    ],
+    "area": 1002450,
+    "common": "Egypt",
+    "official": "Arab Republic of Egypt"
+  },
+  {
+    "cca2": "EH",
+    "ccn3": "732",
+    "cca3": "ESH",
+    "capital": "El Aaiún",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "borders": [
+      "DZA",
+      "MRT",
+      "MAR"
+    ],
+    "area": 266000,
+    "common": "Western Sahara",
+    "official": "Western Sahara"
+  },
+  {
+    "cca2": "ER",
+    "ccn3": "232",
+    "cca3": "ERI",
+    "capital": "Asmara",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "borders": [
+      "DJI",
+      "ETH",
+      "SDN"
+    ],
+    "area": 117600,
+    "common": "Eritrea",
+    "official": "State of Eritrea"
+  },
+  {
+    "cca2": "ET",
+    "ccn3": "231",
+    "cca3": "ETH",
+    "capital": "Addis Ababa",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "borders": [
+      "DJI",
+      "ERI",
+      "KEN",
+      "SOM",
+      "SSD",
+      "SDN"
+    ],
+    "area": 1104300,
+    "common": "Ethiopia",
+    "official": "Federal Democratic Republic of Ethiopia"
+  },
+  {
+    "cca2": "GA",
+    "ccn3": "266",
+    "cca3": "GAB",
+    "capital": "Libreville",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "borders": [
+      "CMR",
+      "COG",
+      "GNQ"
+    ],
+    "area": 267668,
+    "common": "Gabon",
+    "official": "Gabonese Republic"
+  },
+  {
+    "cca2": "GH",
+    "ccn3": "288",
+    "cca3": "GHA",
+    "capital": "Accra",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "borders": [
+      "BFA",
+      "CIV",
+      "TGO"
+    ],
+    "area": 238533,
+    "common": "Ghana",
+    "official": "Republic of Ghana"
+  },
+  {
+    "cca2": "GM",
+    "ccn3": "270",
+    "cca3": "GMB",
+    "capital": "Banjul",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "borders": [
+      "SEN"
+    ],
+    "area": 10689,
+    "common": "Gambia",
+    "official": "Republic of the Gambia"
+  },
+  {
+    "cca2": "GN",
+    "ccn3": "324",
+    "cca3": "GIN",
+    "capital": "Conakry",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "borders": [
+      "CIV",
+      "GNB",
+      "LBR",
+      "MLI",
+      "SEN",
+      "SLE"
+    ],
+    "area": 245857,
+    "common": "Guinea",
+    "official": "Republic of Guinea"
+  },
+  {
+    "cca2": "GQ",
+    "ccn3": "226",
+    "cca3": "GNQ",
+    "capital": "Malabo",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "borders": [
+      "CMR",
+      "GAB"
+    ],
+    "area": 28051,
+    "common": "Equatorial Guinea",
+    "official": "Republic of Equatorial Guinea"
+  },
+  {
+    "cca2": "GW",
+    "ccn3": "624",
+    "cca3": "GNB",
+    "capital": "Bissau",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "borders": [
+      "GIN",
+      "SEN"
+    ],
+    "area": 36125,
+    "common": "Guinea-Bissau",
+    "official": "Republic of Guinea-Bissau"
+  },
+  {
+    "cca2": "IO",
+    "ccn3": "086",
+    "cca3": "IOT",
+    "capital": "Diego Garcia",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "borders": [],
+    "area": 60,
+    "common": "British Indian Ocean Territory",
+    "official": "British Indian Ocean Territory"
+  },
+  {
+    "cca2": "KE",
+    "ccn3": "404",
+    "cca3": "KEN",
+    "capital": "Nairobi",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "borders": [
+      "ETH",
+      "SOM",
+      "SSD",
+      "TZA",
+      "UGA"
+    ],
+    "area": 580367,
+    "common": "Kenya",
+    "official": "Republic of Kenya"
+  },
+  {
+    "cca2": "KM",
+    "ccn3": "174",
+    "cca3": "COM",
+    "capital": "Moroni",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "borders": [],
+    "area": 1862,
+    "common": "Comoros",
+    "official": "Union of the Comoros"
+  },
+  {
+    "cca2": "LR",
+    "ccn3": "430",
+    "cca3": "LBR",
+    "capital": "Monrovia",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "borders": [
+      "GIN",
+      "CIV",
+      "SLE"
+    ],
+    "area": 111369,
+    "common": "Liberia",
+    "official": "Republic of Liberia"
+  },
+  {
+    "cca2": "LS",
+    "ccn3": "426",
+    "cca3": "LSO",
+    "capital": "Maseru",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "borders": [
+      "ZAF"
+    ],
+    "area": 30355,
+    "common": "Lesotho",
+    "official": "Kingdom of Lesotho"
+  },
+  {
+    "cca2": "LY",
+    "ccn3": "434",
+    "cca3": "LBY",
+    "capital": "Tripoli",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "borders": [
+      "DZA",
+      "TCD",
+      "EGY",
+      "NER",
+      "SDN",
+      "TUN"
+    ],
+    "area": 1759540,
+    "common": "Libya",
+    "official": "State of Libya"
+  },
+  {
+    "cca2": "MA",
+    "ccn3": "504",
+    "cca3": "MAR",
+    "capital": "Rabat",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "borders": [
+      "DZA",
+      "ESH",
+      "ESP"
+    ],
+    "area": 446550,
+    "common": "Morocco",
+    "official": "Kingdom of Morocco"
+  },
+  {
+    "cca2": "MG",
+    "ccn3": "450",
+    "cca3": "MDG",
+    "capital": "Antananarivo",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "borders": [],
+    "area": 587041,
+    "common": "Madagascar",
+    "official": "Republic of Madagascar"
+  },
+  {
+    "cca2": "ML",
+    "ccn3": "466",
+    "cca3": "MLI",
+    "capital": "Bamako",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "borders": [
+      "DZA",
+      "BFA",
+      "GIN",
+      "CIV",
+      "MRT",
+      "NER",
+      "SEN"
+    ],
+    "area": 1240192,
+    "common": "Mali",
+    "official": "Republic of Mali"
+  },
+  {
+    "cca2": "MR",
+    "ccn3": "478",
+    "cca3": "MRT",
+    "capital": "Nouakchott",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "borders": [
+      "DZA",
+      "MLI",
+      "SEN",
+      "ESH"
+    ],
+    "area": 1030700,
+    "common": "Mauritania",
+    "official": "Islamic Republic of Mauritania"
+  },
+  {
+    "cca2": "MU",
+    "ccn3": "480",
+    "cca3": "MUS",
+    "capital": "Port Louis",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "borders": [],
+    "area": 2040,
+    "common": "Mauritius",
+    "official": "Republic of Mauritius"
+  },
+  {
+    "cca2": "MW",
+    "ccn3": "454",
+    "cca3": "MWI",
+    "capital": "Lilongwe",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "borders": [
+      "MOZ",
+      "TZA",
+      "ZMB"
+    ],
+    "area": 118484,
+    "common": "Malawi",
+    "official": "Republic of Malawi"
+  },
+  {
+    "cca2": "MZ",
+    "ccn3": "508",
+    "cca3": "MOZ",
+    "capital": "Maputo",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "borders": [
+      "MWI",
+      "ZAF",
+      "SWZ",
+      "TZA",
+      "ZMB",
+      "ZWE"
+    ],
+    "area": 801590,
+    "common": "Mozambique",
+    "official": "Republic of Mozambique"
+  },
+  {
+    "cca2": "NA",
+    "ccn3": "516",
+    "cca3": "NAM",
+    "capital": "Windhoek",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "borders": [
+      "AGO",
+      "BWA",
+      "ZAF",
+      "ZMB"
+    ],
+    "area": 825615,
+    "common": "Namibia",
+    "official": "Republic of Namibia"
+  },
+  {
+    "cca2": "NE",
+    "ccn3": "562",
+    "cca3": "NER",
+    "capital": "Niamey",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "borders": [
+      "DZA",
+      "BEN",
+      "BFA",
+      "TCD",
+      "LBY",
+      "MLI",
+      "NGA"
+    ],
+    "area": 1267000,
+    "common": "Niger",
+    "official": "Republic of Niger"
+  },
+  {
+    "cca2": "NG",
+    "ccn3": "566",
+    "cca3": "NGA",
+    "capital": "Abuja",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "borders": [
+      "BEN",
+      "CMR",
+      "TCD",
+      "NER"
+    ],
+    "area": 923768,
+    "common": "Nigeria",
+    "official": "Federal Republic of Nigeria"
+  },
+  {
+    "cca2": "RE",
+    "ccn3": "638",
+    "cca3": "REU",
+    "capital": "Saint-Denis",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "borders": [],
+    "area": 2511,
+    "common": "Réunion",
+    "official": "Réunion Island"
+  },
+  {
+    "cca2": "RW",
+    "ccn3": "646",
+    "cca3": "RWA",
+    "capital": "Kigali",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "borders": [
+      "BDI",
+      "COD",
+      "TZA",
+      "UGA"
+    ],
+    "area": 26338,
+    "common": "Rwanda",
+    "official": "Republic of Rwanda"
+  },
+  {
+    "cca2": "SC",
+    "ccn3": "690",
+    "cca3": "SYC",
+    "capital": "Victoria",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "borders": [],
+    "area": 452,
+    "common": "Seychelles",
+    "official": "Republic of Seychelles"
+  },
+  {
+    "cca2": "SD",
+    "ccn3": "729",
+    "cca3": "SDN",
+    "capital": "Khartoum",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "borders": [
+      "CAF",
+      "TCD",
+      "EGY",
+      "ERI",
+      "ETH",
+      "LBY",
+      "SSD"
+    ],
+    "area": 1886068,
+    "common": "Sudan",
+    "official": "Republic of the Sudan"
+  },
+  {
+    "cca2": "SH",
+    "ccn3": "654",
+    "cca3": "SHN",
+    "capital": "Jamestown",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "borders": [],
+    "area": 397,
+    "common": "Saint Helena, Ascension and Tristan da Cunha",
+    "official": "Saint Helena, Ascension and Tristan da Cunha"
+  },
+  {
+    "cca2": "SL",
+    "ccn3": "694",
+    "cca3": "SLE",
+    "capital": "Freetown",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "borders": [
+      "GIN",
+      "LBR"
+    ],
+    "area": 71740,
+    "common": "Sierra Leone",
+    "official": "Republic of Sierra Leone"
+  },
+  {
+    "cca2": "SN",
+    "ccn3": "686",
+    "cca3": "SEN",
+    "capital": "Dakar",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "borders": [
+      "GMB",
+      "GIN",
+      "GNB",
+      "MLI",
+      "MRT"
+    ],
+    "area": 196722,
+    "common": "Senegal",
+    "official": "Republic of Senegal"
+  },
+  {
+    "cca2": "SO",
+    "ccn3": "706",
+    "cca3": "SOM",
+    "capital": "Mogadishu",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "borders": [
+      "DJI",
+      "ETH",
+      "KEN"
+    ],
+    "area": 637657,
+    "common": "Somalia",
+    "official": "Federal Republic of Somalia"
+  },
+  {
+    "cca2": "SS",
+    "ccn3": "728",
+    "cca3": "SSD",
+    "capital": "Juba",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "borders": [
+      "CAF",
+      "COD",
+      "ETH",
+      "KEN",
+      "SDN",
+      "UGA"
+    ],
+    "area": 619745,
+    "common": "South Sudan",
+    "official": "Republic of South SudanSouth Sudan"
+  },
+  {
+    "cca2": "ST",
+    "ccn3": "678",
+    "cca3": "STP",
+    "capital": "São Tomé",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "borders": [],
+    "area": 964,
+    "common": "São Tomé and Príncipe",
+    "official": "Democratic Republic of São Tomé and Príncipe"
+  },
+  {
+    "cca2": "SZ",
+    "ccn3": "748",
+    "cca3": "SWZ",
+    "capital": "Lobamba",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "borders": [
+      "MOZ",
+      "ZAF"
+    ],
+    "area": 17364,
+    "common": "Swaziland",
+    "official": "Kingdom of Swaziland"
+  },
+  {
+    "cca2": "TD",
+    "ccn3": "148",
+    "cca3": "TCD",
+    "capital": "N'Djamena",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "borders": [
+      "CMR",
+      "CAF",
+      "LBY",
+      "NER",
+      "NGA",
+      "SSD"
+    ],
+    "area": 1284000,
+    "common": "Chad",
+    "official": "Republic of Chad"
+  },
+  {
+    "cca2": "TG",
+    "ccn3": "768",
+    "cca3": "TGO",
+    "capital": "Lomé",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "borders": [
+      "BEN",
+      "BFA",
+      "GHA"
+    ],
+    "area": 56785,
+    "common": "Togo",
+    "official": "Togolese Republic"
+  },
+  {
+    "cca2": "TN",
+    "ccn3": "788",
+    "cca3": "TUN",
+    "capital": "Tunis",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "borders": [
+      "DZA",
+      "LBY"
+    ],
+    "area": 163610,
+    "common": "Tunisia",
+    "official": "Tunisian Republic"
+  },
+  {
+    "cca2": "TZ",
+    "ccn3": "834",
+    "cca3": "TZA",
+    "capital": "Dodoma",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "borders": [
+      "BDI",
+      "COD",
+      "KEN",
+      "MWI",
+      "MOZ",
+      "RWA",
+      "UGA",
+      "ZMB"
+    ],
+    "area": 945087,
+    "common": "Tanzania",
+    "official": "United Republic of Tanzania"
+  },
+  {
+    "cca2": "UG",
+    "ccn3": "800",
+    "cca3": "UGA",
+    "capital": "Kampala",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "borders": [
+      "COD",
+      "KEN",
+      "RWA",
+      "SSD",
+      "TZA"
+    ],
+    "area": 241550,
+    "common": "Uganda",
+    "official": "Republic of Uganda"
+  },
+  {
+    "cca2": "YT",
+    "ccn3": "175",
+    "cca3": "MYT",
+    "capital": "Mamoudzou",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "borders": [],
+    "area": 374,
+    "common": "Mayotte",
+    "official": "Department of Mayotte"
+  },
+  {
+    "cca2": "ZA",
+    "ccn3": "710",
+    "cca3": "ZAF",
+    "capital": "Pretoria",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "borders": [
+      "BWA",
+      "LSO",
+      "MOZ",
+      "NAM",
+      "SWZ",
+      "ZWE"
+    ],
+    "area": 1221037,
+    "common": "South Africa",
+    "official": "Republic of South Africa"
+  },
+  {
+    "cca2": "ZM",
+    "ccn3": "894",
+    "cca3": "ZMB",
+    "capital": "Lusaka",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "borders": [
+      "AGO",
+      "BWA",
+      "COD",
+      "MWI",
+      "MOZ",
+      "NAM",
+      "TZA",
+      "ZWE"
+    ],
+    "area": 752612,
+    "common": "Zambia",
+    "official": "Republic of Zambia"
+  },
+  {
+    "cca2": "ZW",
+    "ccn3": "716",
+    "cca3": "ZWE",
+    "capital": "Harare",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "borders": [
+      "BWA",
+      "MOZ",
+      "ZAF",
+      "ZMB"
+    ],
+    "area": 390757,
+    "common": "Zimbabwe",
+    "official": "Republic of Zimbabwe"
+  },
+  {
+    "cca2": "AG",
+    "ccn3": "028",
+    "cca3": "ATG",
+    "capital": "Saint John's",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "borders": [],
+    "area": 442,
+    "common": "Antigua and Barbuda",
+    "official": "Antigua and Barbuda"
+  },
+  {
+    "cca2": "AI",
+    "ccn3": "660",
+    "cca3": "AIA",
+    "capital": "The Valley",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "borders": [],
+    "area": 91,
+    "common": "Anguilla",
+    "official": "Anguilla"
+  },
+  {
+    "cca2": "AR",
+    "ccn3": "032",
+    "cca3": "ARG",
+    "capital": "Buenos Aires",
+    "region": "Americas",
+    "subregion": "South America",
+    "borders": [
+      "BOL",
+      "BRA",
+      "CHL",
+      "PRY",
+      "URY"
+    ],
+    "area": 2780400,
+    "common": "Argentina",
+    "official": "Argentine Republic"
+  },
+  {
+    "cca2": "AW",
+    "ccn3": "533",
+    "cca3": "ABW",
+    "capital": "Oranjestad",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "borders": [],
+    "area": 180,
+    "common": "Aruba",
+    "official": "Aruba"
+  },
+  {
+    "cca2": "BB",
+    "ccn3": "052",
+    "cca3": "BRB",
+    "capital": "Bridgetown",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "borders": [],
+    "area": 430,
+    "common": "Barbados",
+    "official": "Barbados"
+  },
+  {
+    "cca2": "BL",
+    "ccn3": "652",
+    "cca3": "BLM",
+    "capital": "Gustavia",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "borders": [],
+    "area": 21,
+    "common": "Saint Barthélemy",
+    "official": "Collectivity of Saint BarthélemySaint Barthélemy"
+  },
+  {
+    "cca2": "BM",
+    "ccn3": "060",
+    "cca3": "BMU",
+    "capital": "Hamilton",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "borders": [],
+    "area": 54,
+    "common": "Bermuda",
+    "official": "Bermuda"
+  },
+  {
+    "cca2": "BO",
+    "ccn3": "068",
+    "cca3": "BOL",
+    "capital": "Sucre",
+    "region": "Americas",
+    "subregion": "South America",
+    "borders": [
+      "ARG",
+      "BRA",
+      "CHL",
+      "PRY",
+      "PER"
+    ],
+    "area": 1098581,
+    "common": "Bolivia",
+    "official": "Plurinational State of Bolivia"
+  },
+  {
+    "cca2": "BQ",
+    "ccn3": "535",
+    "cca3": "BES",
+    "capital": "Kralendijk",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "borders": [],
+    "area": 294,
+    "common": "Bonaire",
+    "official": "Bonaire"
+  },
+  {
+    "cca2": "BR",
+    "ccn3": "076",
+    "cca3": "BRA",
+    "capital": "Brasília",
+    "region": "Americas",
+    "subregion": "South America",
+    "borders": [
+      "ARG",
+      "BOL",
+      "COL",
+      "GUF",
+      "GUY",
+      "PRY",
+      "PER",
+      "SUR",
+      "URY",
+      "VEN"
+    ],
+    "area": 8515767,
+    "common": "Brazil",
+    "official": "Federative Republic of Brazil"
+  },
+  {
+    "cca2": "BS",
+    "ccn3": "044",
+    "cca3": "BHS",
+    "capital": "Nassau",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "borders": [],
+    "area": 13943,
+    "common": "Bahamas",
+    "official": "Commonwealth of the Bahamas"
+  },
+  {
+    "cca2": "BZ",
+    "ccn3": "084",
+    "cca3": "BLZ",
+    "capital": "Belmopan",
+    "region": "Americas",
+    "subregion": "Central America",
+    "borders": [
+      "GTM",
+      "MEX"
+    ],
+    "area": 22966,
+    "common": "Belize",
+    "official": "Belize"
+  },
+  {
+    "cca2": "CA",
+    "ccn3": "124",
+    "cca3": "CAN",
+    "capital": "Ottawa",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "borders": [
+      "USA"
+    ],
+    "area": 9984670,
+    "common": "Canada",
+    "official": "Canada"
+  },
+  {
+    "cca2": "CL",
+    "ccn3": "152",
+    "cca3": "CHL",
+    "capital": "Santiago",
+    "region": "Americas",
+    "subregion": "South America",
+    "borders": [
+      "ARG",
+      "BOL",
+      "PER"
+    ],
+    "area": 756102,
+    "common": "Chile",
+    "official": "Republic of Chile"
+  },
+  {
+    "cca2": "CO",
+    "ccn3": "170",
+    "cca3": "COL",
+    "capital": "Bogotá",
+    "region": "Americas",
+    "subregion": "South America",
+    "borders": [
+      "BRA",
+      "ECU",
+      "PAN",
+      "PER",
+      "VEN"
+    ],
+    "area": 1141748,
+    "common": "Colombia",
+    "official": "Republic of Colombia"
+  },
+  {
+    "cca2": "CR",
+    "ccn3": "188",
+    "cca3": "CRI",
+    "capital": "San José",
+    "region": "Americas",
+    "subregion": "Central America",
+    "borders": [
+      "NIC",
+      "PAN"
+    ],
+    "area": 51100,
+    "common": "Costa Rica",
+    "official": "Republic of Costa Rica"
+  },
+  {
+    "cca2": "CU",
+    "ccn3": "192",
+    "cca3": "CUB",
+    "capital": "Havana",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "borders": [],
+    "area": 109884,
+    "common": "Cuba",
+    "official": "Republic of Cuba"
+  },
+  {
+    "cca2": "CW",
+    "ccn3": "531",
+    "cca3": "CUW",
+    "capital": "Willemstad",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "borders": [],
+    "area": 444,
+    "common": "Curaçao",
+    "official": "Country of Curaçao"
+  },
+  {
+    "cca2": "DM",
+    "ccn3": "212",
+    "cca3": "DMA",
+    "capital": "Roseau",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "borders": [],
+    "area": 751,
+    "common": "Dominica",
+    "official": "Commonwealth of Dominica"
+  },
+  {
+    "cca2": "DO",
+    "ccn3": "214",
+    "cca3": "DOM",
+    "capital": "Santo Domingo",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "borders": [
+      "HTI"
+    ],
+    "area": 48671,
+    "common": "Dominican Republic",
+    "official": "Dominican Republic"
+  },
+  {
+    "cca2": "EC",
+    "ccn3": "218",
+    "cca3": "ECU",
+    "capital": "Quito",
+    "region": "Americas",
+    "subregion": "South America",
+    "borders": [
+      "COL",
+      "PER"
+    ],
+    "area": 276841,
+    "common": "Ecuador",
+    "official": "Republic of Ecuador"
+  },
+  {
+    "cca2": "FK",
+    "ccn3": "238",
+    "cca3": "FLK",
+    "capital": "Stanley",
+    "region": "Americas",
+    "subregion": "South America",
+    "borders": [],
+    "area": 12173,
+    "common": "Falkland Islands",
+    "official": "Falkland Islands"
+  },
+  {
+    "cca2": "GD",
+    "ccn3": "308",
+    "cca3": "GRD",
+    "capital": "St. George's",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "borders": [],
+    "area": 344,
+    "common": "Grenada",
+    "official": "Grenada"
+  },
+  {
+    "cca2": "GF",
+    "ccn3": "254",
+    "cca3": "GUF",
+    "capital": "Cayenne",
+    "region": "Americas",
+    "subregion": "South America",
+    "borders": [
+      "BRA",
+      "SUR"
+    ],
+    "area": 83534,
+    "common": "French Guiana",
+    "official": "Guiana"
+  },
+  {
+    "cca2": "GL",
+    "ccn3": "304",
+    "cca3": "GRL",
+    "capital": "Nuuk",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "borders": [],
+    "area": 2166086,
+    "common": "Greenland",
+    "official": "Greenland"
+  },
+  {
+    "cca2": "GP",
+    "ccn3": "312",
+    "cca3": "GLP",
+    "capital": "Basse-Terre",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "borders": [],
+    "area": 1628,
+    "common": "Guadeloupe",
+    "official": "Guadeloupe"
+  },
+  {
+    "cca2": "GS",
+    "ccn3": "239",
+    "cca3": "SGS",
+    "capital": "King Edward Point",
+    "region": "Americas",
+    "subregion": "South America",
+    "borders": [],
+    "area": 3903,
+    "common": "South Georgia",
+    "official": "South Georgia and the South Sandwich Islands"
+  },
+  {
+    "cca2": "GT",
+    "ccn3": "320",
+    "cca3": "GTM",
+    "capital": "Guatemala City",
+    "region": "Americas",
+    "subregion": "Central America",
+    "borders": [
+      "BLZ",
+      "SLV",
+      "HND",
+      "MEX"
+    ],
+    "area": 108889,
+    "common": "Guatemala",
+    "official": "Republic of Guatemala"
+  },
+  {
+    "cca2": "GY",
+    "ccn3": "328",
+    "cca3": "GUY",
+    "capital": "Georgetown",
+    "region": "Americas",
+    "subregion": "South America",
+    "borders": [
+      "BRA",
+      "SUR",
+      "VEN"
+    ],
+    "area": 214969,
+    "common": "Guyana",
+    "official": "Co-operative Republic of Guyana"
+  },
+  {
+    "cca2": "HN",
+    "ccn3": "340",
+    "cca3": "HND",
+    "capital": "Tegucigalpa",
+    "region": "Americas",
+    "subregion": "Central America",
+    "borders": [
+      "GTM",
+      "SLV",
+      "NIC"
+    ],
+    "area": 112492,
+    "common": "Honduras",
+    "official": "Republic of Honduras"
+  },
+  {
+    "cca2": "HT",
+    "ccn3": "332",
+    "cca3": "HTI",
+    "capital": "Port-au-Prince",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "borders": [
+      "DOM"
+    ],
+    "area": 27750,
+    "common": "Haiti",
+    "official": "Republic of Haiti"
+  },
+  {
+    "cca2": "JM",
+    "ccn3": "388",
+    "cca3": "JAM",
+    "capital": "Kingston",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "borders": [],
+    "area": 10991,
+    "common": "Jamaica",
+    "official": "Jamaica"
+  },
+  {
+    "cca2": "KN",
+    "ccn3": "659",
+    "cca3": "KNA",
+    "capital": "Basseterre",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "borders": [],
+    "area": 261,
+    "common": "Saint Kitts and Nevis",
+    "official": "Federation of Saint Christopher and Nevisa"
+  },
+  {
+    "cca2": "KY",
+    "ccn3": "136",
+    "cca3": "CYM",
+    "capital": "George Town",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "borders": [],
+    "area": 264,
+    "common": "Cayman Islands",
+    "official": "Cayman Islands"
+  },
+  {
+    "cca2": "LC",
+    "ccn3": "662",
+    "cca3": "LCA",
+    "capital": "Castries",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "borders": [],
+    "area": 616,
+    "common": "Saint Lucia",
+    "official": "Saint Lucia"
+  },
+  {
+    "cca2": "MF",
+    "ccn3": "663",
+    "cca3": "MAF",
+    "capital": "Marigot",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "borders": [
+      "SXM"
+    ],
+    "area": 53,
+    "common": "Saint Martin",
+    "official": "Saint Pierre and Miquelon"
+  },
+  {
+    "cca2": "MQ",
+    "ccn3": "474",
+    "cca3": "MTQ",
+    "capital": "Fort-de-France",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "borders": [],
+    "area": 1128,
+    "common": "Martinique",
+    "official": "Martinique"
+  },
+  {
+    "cca2": "MS",
+    "ccn3": "500",
+    "cca3": "MSR",
+    "capital": "Plymouth",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "borders": [],
+    "area": 102,
+    "common": "Montserrat",
+    "official": "Montserrat"
+  },
+  {
+    "cca2": "MX",
+    "ccn3": "484",
+    "cca3": "MEX",
+    "capital": "Mexico City",
+    "region": "Americas",
+    "subregion": "Central America",
+    "borders": [
+      "BLZ",
+      "GTM",
+      "USA"
+    ],
+    "area": 1964375,
+    "common": "Mexico",
+    "official": "United Mexican States"
+  },
+  {
+    "cca2": "NI",
+    "ccn3": "558",
+    "cca3": "NIC",
+    "capital": "Managua",
+    "region": "Americas",
+    "subregion": "Central America",
+    "borders": [
+      "CRI",
+      "HND"
+    ],
+    "area": 130373,
+    "common": "Nicaragua",
+    "official": "Republic of Nicaragua"
+  },
+  {
+    "cca2": "PA",
+    "ccn3": "591",
+    "cca3": "PAN",
+    "capital": "Panama City",
+    "region": "Americas",
+    "subregion": "Central America",
+    "borders": [
+      "COL",
+      "CRI"
+    ],
+    "area": 75417,
+    "common": "Panama",
+    "official": "Republic of Panama"
+  },
+  {
+    "cca2": "PE",
+    "ccn3": "604",
+    "cca3": "PER",
+    "capital": "Lima",
+    "region": "Americas",
+    "subregion": "South America",
+    "borders": [
+      "BOL",
+      "BRA",
+      "CHL",
+      "COL",
+      "ECU"
+    ],
+    "area": 1285216,
+    "common": "Peru",
+    "official": "Republic of Peru"
+  },
+  {
+    "cca2": "PM",
+    "ccn3": "666",
+    "cca3": "SPM",
+    "capital": "Saint-Pierre",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "borders": [],
+    "area": 242,
+    "common": "Saint Pierre and Miquelon",
+    "official": "Saint-Pierre-et-Miquelon"
+  },
+  {
+    "cca2": "PR",
+    "ccn3": "630",
+    "cca3": "PRI",
+    "capital": "San Juan",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "borders": [],
+    "area": 8870,
+    "common": "Puerto Rico",
+    "official": "Commonwealth of Puerto Rico"
+  },
+  {
+    "cca2": "PY",
+    "ccn3": "600",
+    "cca3": "PRY",
+    "capital": "Asunción",
+    "region": "Americas",
+    "subregion": "South America",
+    "borders": [
+      "ARG",
+      "BOL",
+      "BRA"
+    ],
+    "area": 406752,
+    "common": "Paraguay",
+    "official": "Republic of Paraguay"
+  },
+  {
+    "cca2": "SR",
+    "ccn3": "740",
+    "cca3": "SUR",
+    "capital": "Paramaribo",
+    "region": "Americas",
+    "subregion": "South America",
+    "borders": [
+      "BRA",
+      "GUF",
+      "GUY"
+    ],
+    "area": 163820,
+    "common": "Suriname",
+    "official": "Republic of Suriname"
+  },
+  {
+    "cca2": "SV",
+    "ccn3": "222",
+    "cca3": "SLV",
+    "capital": "San Salvador",
+    "region": "Americas",
+    "subregion": "Central America",
+    "borders": [
+      "GTM",
+      "HND"
+    ],
+    "area": 21041,
+    "common": "El Salvador",
+    "official": "Republic of El Salvador"
+  },
+  {
+    "cca2": "SX",
+    "ccn3": "534",
+    "cca3": "SXM",
+    "capital": "Philipsburg",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "borders": [
+      "MAF"
+    ],
+    "area": 34,
+    "common": "Sint Maarten",
+    "official": "Sint Maarten"
+  },
+  {
+    "cca2": "TC",
+    "ccn3": "796",
+    "cca3": "TCA",
+    "capital": "Cockburn Town",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "borders": [],
+    "area": 948,
+    "common": "Turks and Caicos Islands",
+    "official": "Turks and Caicos Islands"
+  },
+  {
+    "cca2": "TT",
+    "ccn3": "780",
+    "cca3": "TTO",
+    "capital": "Port of Spain",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "borders": [],
+    "area": 5130,
+    "common": "Trinidad and Tobago",
+    "official": "Republic of Trinidad and Tobago"
+  },
+  {
+    "cca2": "UM",
+    "ccn3": "581",
+    "cca3": "UMI",
+    "capital": "",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "borders": [],
+    "area": 34.2,
+    "common": "United States Minor Outlying Islands",
+    "official": "United States Minor Outlying Islands"
+  },
+  {
+    "cca2": "US",
+    "ccn3": "840",
+    "cca3": "USA",
+    "capital": "Washington D.C.",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "borders": [
+      "CAN",
+      "MEX"
+    ],
+    "area": 9372610,
+    "common": "United States",
+    "official": "United States of America"
+  },
+  {
+    "cca2": "UY",
+    "ccn3": "858",
+    "cca3": "URY",
+    "capital": "Montevideo",
+    "region": "Americas",
+    "subregion": "South America",
+    "borders": [
+      "ARG",
+      "BRA"
+    ],
+    "area": 181034,
+    "common": "Uruguay",
+    "official": "Oriental Republic of Uruguay"
+  },
+  {
+    "cca2": "VC",
+    "ccn3": "670",
+    "cca3": "VCT",
+    "capital": "Kingstown",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "borders": [],
+    "area": 389,
+    "common": "Saint Vincent and the Grenadines",
+    "official": "Saint Vincent and the Grenadines"
+  },
+  {
+    "cca2": "VE",
+    "ccn3": "862",
+    "cca3": "VEN",
+    "capital": "Caracas",
+    "region": "Americas",
+    "subregion": "South America",
+    "borders": [
+      "BRA",
+      "COL",
+      "GUY"
+    ],
+    "area": 916445,
+    "common": "Venezuela",
+    "official": "Bolivarian Republic of Venezuela"
+  },
+  {
+    "cca2": "VG",
+    "ccn3": "092",
+    "cca3": "VGB",
+    "capital": "Road Town",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "borders": [],
+    "area": 151,
+    "common": "British Virgin Islands",
+    "official": "Virgin Islands"
+  },
+  {
+    "cca2": "VI",
+    "ccn3": "850",
+    "cca3": "VIR",
+    "capital": "Charlotte Amalie",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "borders": [],
+    "area": 347,
+    "common": "United States Virgin Islands",
+    "official": "Virgin Islands of the United States"
+  },
+  {
+    "cca2": "AE",
+    "ccn3": "784",
+    "cca3": "ARE",
+    "capital": "Abu Dhabi",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "borders": [
+      "OMN",
+      "SAU"
+    ],
+    "area": 83600,
+    "common": "United Arab Emirates",
+    "official": "United Arab Emirates"
+  },
+  {
+    "cca2": "AF",
+    "ccn3": "004",
+    "cca3": "AFG",
+    "capital": "Kabul",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "borders": [
+      "IRN",
+      "PAK",
+      "TKM",
+      "UZB",
+      "TJK",
+      "CHN"
+    ],
+    "area": 652230,
+    "common": "Afghanistan",
+    "official": "Islamic Republic of Afghanistan"
+  },
+  {
+    "cca2": "AM",
+    "ccn3": "051",
+    "cca3": "ARM",
+    "capital": "Yerevan",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "borders": [
+      "AZE",
+      "GEO",
+      "IRN",
+      "TUR"
+    ],
+    "area": 29743,
+    "common": "Armenia",
+    "official": "Republic of Armenia"
+  },
+  {
+    "cca2": "AZ",
+    "ccn3": "031",
+    "cca3": "AZE",
+    "capital": "Baku",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "borders": [
+      "ARM",
+      "GEO",
+      "IRN",
+      "RUS",
+      "TUR"
+    ],
+    "area": 86600,
+    "common": "Azerbaijan",
+    "official": "Republic of Azerbaijan"
+  },
+  {
+    "cca2": "BD",
+    "ccn3": "050",
+    "cca3": "BGD",
+    "capital": "Dhaka",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "borders": [
+      "MMR",
+      "IND"
+    ],
+    "area": 147570,
+    "common": "Bangladesh",
+    "official": "People's Republic of Bangladesh"
+  },
+  {
+    "cca2": "BH",
+    "ccn3": "048",
+    "cca3": "BHR",
+    "capital": "Manama",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "borders": [],
+    "area": 765,
+    "common": "Bahrain",
+    "official": "Kingdom of Bahrain"
+  },
+  {
+    "cca2": "BN",
+    "ccn3": "096",
+    "cca3": "BRN",
+    "capital": "Bandar Seri Begawan",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "borders": [
+      "MYS"
+    ],
+    "area": 5765,
+    "common": "Brunei",
+    "official": "Nation of Brunei, Abode of Peace"
+  },
+  {
+    "cca2": "BT",
+    "ccn3": "064",
+    "cca3": "BTN",
+    "capital": "Thimphu",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "borders": [
+      "CHN",
+      "IND"
+    ],
+    "area": 38394,
+    "common": "Bhutan",
+    "official": "Kingdom of Bhutan"
+  },
+  {
+    "cca2": "CN",
+    "ccn3": "156",
+    "cca3": "CHN",
+    "capital": "Beijing",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "borders": [
+      "AFG",
+      "BTN",
+      "MMR",
+      "HKG",
+      "IND",
+      "KAZ",
+      "PRK",
+      "KGZ",
+      "LAO",
+      "MAC",
+      "MNG",
+      "PAK",
+      "RUS",
+      "TJK",
+      "VNM"
+    ],
+    "area": 9706961,
+    "common": "China",
+    "official": "People's Republic of China"
+  },
+  {
+    "cca2": "GE",
+    "ccn3": "268",
+    "cca3": "GEO",
+    "capital": "Tbilisi",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "borders": [
+      "ARM",
+      "AZE",
+      "RUS",
+      "TUR"
+    ],
+    "area": 69700,
+    "common": "Georgia",
+    "official": "Georgia"
+  },
+  {
+    "cca2": "HK",
+    "ccn3": "344",
+    "cca3": "HKG",
+    "capital": "City of Victoria",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "borders": [
+      "CHN"
+    ],
+    "area": 1104,
+    "common": "Hong Kong",
+    "official": "Hong Kong Special Administrative Region of the People's Republic of China"
+  },
+  {
+    "cca2": "ID",
+    "ccn3": "360",
+    "cca3": "IDN",
+    "capital": "Jakarta",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "borders": [
+      "TLS",
+      "MYS",
+      "PNG"
+    ],
+    "area": 1904569,
+    "common": "Indonesia",
+    "official": "Republic of Indonesia"
+  },
+  {
+    "cca2": "IL",
+    "ccn3": "376",
+    "cca3": "ISR",
+    "capital": "Jerusalem",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "borders": [
+      "EGY",
+      "JOR",
+      "LBN",
+      "SYR"
+    ],
+    "area": 20770,
+    "common": "Israel",
+    "official": "State of Israel"
+  },
+  {
+    "cca2": "IN",
+    "ccn3": "356",
+    "cca3": "IND",
+    "capital": "New Delhi",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "borders": [
+      "AFG",
+      "BGD",
+      "BTN",
+      "MMR",
+      "CHN",
+      "NPL",
+      "PAK",
+      "LKA"
+    ],
+    "area": 3287590,
+    "common": "India",
+    "official": "Republic of India"
+  },
+  {
+    "cca2": "IQ",
+    "ccn3": "368",
+    "cca3": "IRQ",
+    "capital": "Baghdad",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "borders": [
+      "IRN",
+      "JOR",
+      "KWT",
+      "SAU",
+      "SYR",
+      "TUR"
+    ],
+    "area": 438317,
+    "common": "Iraq",
+    "official": "Republic of Iraq"
+  },
+  {
+    "cca2": "IR",
+    "ccn3": "364",
+    "cca3": "IRN",
+    "capital": "Tehran",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "borders": [
+      "AFG",
+      "ARM",
+      "AZE",
+      "IRQ",
+      "PAK",
+      "TUR",
+      "TKM"
+    ],
+    "area": 1648195,
+    "common": "Iran",
+    "official": "Islamic Republic of Iran"
+  },
+  {
+    "cca2": "JO",
+    "ccn3": "400",
+    "cca3": "JOR",
+    "capital": "Amman",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "borders": [
+      "IRQ",
+      "ISR",
+      "SAU",
+      "SYR"
+    ],
+    "area": 89342,
+    "common": "Jordan",
+    "official": "Hashemite Kingdom of Jordan"
+  },
+  {
+    "cca2": "JP",
+    "ccn3": "392",
+    "cca3": "JPN",
+    "capital": "Tokyo",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "borders": [],
+    "area": 377930,
+    "common": "Japan",
+    "official": "Japan"
+  },
+  {
+    "cca2": "KG",
+    "ccn3": "417",
+    "cca3": "KGZ",
+    "capital": "Bishkek",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "borders": [
+      "CHN",
+      "KAZ",
+      "TJK",
+      "UZB"
+    ],
+    "area": 199951,
+    "common": "Kyrgyzstan",
+    "official": "Kyrgyz Republic"
+  },
+  {
+    "cca2": "KH",
+    "ccn3": "116",
+    "cca3": "KHM",
+    "capital": "Phnom Penh",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "borders": [
+      "LAO",
+      "THA",
+      "VNM"
+    ],
+    "area": 181035,
+    "common": "Cambodia",
+    "official": "Kingdom of Cambodia"
+  },
+  {
+    "cca2": "KP",
+    "ccn3": "408",
+    "cca3": "PRK",
+    "capital": "Pyongyang",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "borders": [
+      "CHN",
+      "KOR",
+      "RUS"
+    ],
+    "area": 120538,
+    "common": "North Korea",
+    "official": "Democratic People's Republic of Korea"
+  },
+  {
+    "cca2": "KR",
+    "ccn3": "410",
+    "cca3": "KOR",
+    "capital": "Seoul",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "borders": [
+      "PRK"
+    ],
+    "area": 100210,
+    "common": "South Korea",
+    "official": "Republic of Korea"
+  },
+  {
+    "cca2": "KW",
+    "ccn3": "414",
+    "cca3": "KWT",
+    "capital": "Kuwait City",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "borders": [
+      "IRN",
+      "SAU"
+    ],
+    "area": 17818,
+    "common": "Kuwait",
+    "official": "State of Kuwait"
+  },
+  {
+    "cca2": "KZ",
+    "ccn3": "398",
+    "cca3": "KAZ",
+    "capital": "Astana",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "borders": [
+      "CHN",
+      "KGZ",
+      "RUS",
+      "TKM",
+      "UZB"
+    ],
+    "area": 2724900,
+    "common": "Kazakhstan",
+    "official": "Republic of Kazakhstan"
+  },
+  {
+    "cca2": "LA",
+    "ccn3": "418",
+    "cca3": "LAO",
+    "capital": "Vientiane",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "borders": [
+      "MMR",
+      "KHM",
+      "CHN",
+      "THA",
+      "VNM"
+    ],
+    "area": 236800,
+    "common": "Laos",
+    "official": "Lao People's Democratic Republic"
+  },
+  {
+    "cca2": "LB",
+    "ccn3": "422",
+    "cca3": "LBN",
+    "capital": "Beirut",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "borders": [
+      "ISR",
+      "SYR"
+    ],
+    "area": 10452,
+    "common": "Lebanon",
+    "official": "Lebanese Republic"
+  },
+  {
+    "cca2": "LK",
+    "ccn3": "144",
+    "cca3": "LKA",
+    "capital": "Colombo",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "borders": [
+      "IND"
+    ],
+    "area": 65610,
+    "common": "Sri Lanka",
+    "official": "Democratic Socialist Republic of Sri Lanka"
+  },
+  {
+    "cca2": "MM",
+    "ccn3": "104",
+    "cca3": "MMR",
+    "capital": "Naypyidaw",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "borders": [
+      "BGD",
+      "CHN",
+      "IND",
+      "LAO",
+      "THA"
+    ],
+    "area": 676578,
+    "common": "Myanmar",
+    "official": "Republic of the Union of Myanmar"
+  },
+  {
+    "cca2": "MN",
+    "ccn3": "496",
+    "cca3": "MNG",
+    "capital": "Ulan Bator",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "borders": [
+      "CHN",
+      "RUS"
+    ],
+    "area": 1564110,
+    "common": "Mongolia",
+    "official": "Mongolia"
+  },
+  {
+    "cca2": "MO",
+    "ccn3": "446",
+    "cca3": "MAC",
+    "capital": "",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "borders": [
+      "CHN"
+    ],
+    "area": 30,
+    "common": "Macau",
+    "official": "Macao Special Administrative Region of the People's Republic of China"
+  },
+  {
+    "cca2": "MV",
+    "ccn3": "462",
+    "cca3": "MDV",
+    "capital": "Malé",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "borders": [],
+    "area": 300,
+    "common": "Maldives",
+    "official": "Republic of the Maldives"
+  },
+  {
+    "cca2": "MY",
+    "ccn3": "458",
+    "cca3": "MYS",
+    "capital": "Kuala Lumpur",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "borders": [
+      "BRN",
+      "IDN",
+      "THA"
+    ],
+    "area": 330803,
+    "common": "Malaysia",
+    "official": "Malaysia"
+  },
+  {
+    "cca2": "NP",
+    "ccn3": "524",
+    "cca3": "NPL",
+    "capital": "Kathmandu",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "borders": [
+      "CHN",
+      "IND"
+    ],
+    "area": 147181,
+    "common": "Nepal",
+    "official": "Federal Democratic Republic of Nepal"
+  },
+  {
+    "cca2": "OM",
+    "ccn3": "512",
+    "cca3": "OMN",
+    "capital": "Muscat",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "borders": [
+      "SAU",
+      "ARE",
+      "YEM"
+    ],
+    "area": 309500,
+    "common": "Oman",
+    "official": "Sultanate of Oman"
+  },
+  {
+    "cca2": "PH",
+    "ccn3": "608",
+    "cca3": "PHL",
+    "capital": "Manila",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "borders": [],
+    "area": 342353,
+    "common": "Philippines",
+    "official": "Republic of the Philippines"
+  },
+  {
+    "cca2": "PK",
+    "ccn3": "586",
+    "cca3": "PAK",
+    "capital": "Islamabad",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "borders": [
+      "AFG",
+      "CHN",
+      "IND",
+      "IRN"
+    ],
+    "area": 881912,
+    "common": "Pakistan",
+    "official": "Islamic Republic of Pakistan"
+  },
+  {
+    "cca2": "PS",
+    "ccn3": "275",
+    "cca3": "PSE",
+    "capital": "Ramallah",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "borders": [
+      "ISR",
+      "EGY",
+      "JOR"
+    ],
+    "area": 6220,
+    "common": "Palestine",
+    "official": "State of Palestine"
+  },
+  {
+    "cca2": "QA",
+    "ccn3": "634",
+    "cca3": "QAT",
+    "capital": "Doha",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "borders": [
+      "SAU"
+    ],
+    "area": 11586,
+    "common": "Qatar",
+    "official": "State of Qatar"
+  },
+  {
+    "cca2": "SA",
+    "ccn3": "682",
+    "cca3": "SAU",
+    "capital": "Riyadh",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "borders": [
+      "IRQ",
+      "JOR",
+      "KWT",
+      "OMN",
+      "QAT",
+      "ARE",
+      "YEM"
+    ],
+    "area": 2149690,
+    "common": "Saudi Arabia",
+    "official": "Kingdom of Saudi Arabia"
+  },
+  {
+    "cca2": "SG",
+    "ccn3": "702",
+    "cca3": "SGP",
+    "capital": "Singapore",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "borders": [],
+    "area": 710,
+    "common": "Singapore",
+    "official": "Republic of Singapore"
+  },
+  {
+    "cca2": "SY",
+    "ccn3": "760",
+    "cca3": "SYR",
+    "capital": "Damascus",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "borders": [
+      "IRQ",
+      "ISR",
+      "JOR",
+      "LBN",
+      "TUR"
+    ],
+    "area": 185180,
+    "common": "Syria",
+    "official": "Syrian Arab Republic"
+  },
+  {
+    "cca2": "TH",
+    "ccn3": "764",
+    "cca3": "THA",
+    "capital": "Bangkok",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "borders": [
+      "MMR",
+      "KHM",
+      "LAO",
+      "MYS"
+    ],
+    "area": 513120,
+    "common": "Thailand",
+    "official": "Kingdom of Thailand"
+  },
+  {
+    "cca2": "TJ",
+    "ccn3": "762",
+    "cca3": "TJK",
+    "capital": "Dushanbe",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "borders": [
+      "AFG",
+      "CHN",
+      "KGZ",
+      "UZB"
+    ],
+    "area": 143100,
+    "common": "Tajikistan",
+    "official": "Republic of Tajikistan"
+  },
+  {
+    "cca2": "TL",
+    "ccn3": "626",
+    "cca3": "TLS",
+    "capital": "Dili",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "borders": [
+      "IDN"
+    ],
+    "area": 14874,
+    "common": "Timor-Leste",
+    "official": "Democratic Republic of Timor-Leste"
+  },
+  {
+    "cca2": "TM",
+    "ccn3": "795",
+    "cca3": "TKM",
+    "capital": "Ashgabat",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "borders": [
+      "AFG",
+      "IRN",
+      "KAZ",
+      "UZB"
+    ],
+    "area": 488100,
+    "common": "Turkmenistan",
+    "official": "Turkmenistan"
+  },
+  {
+    "cca2": "TR",
+    "ccn3": "792",
+    "cca3": "TUR",
+    "capital": "Ankara",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "borders": [
+      "ARM",
+      "AZE",
+      "BGR",
+      "GEO",
+      "GRC",
+      "IRN",
+      "IRQ",
+      "SYR"
+    ],
+    "area": 783562,
+    "common": "Turkey",
+    "official": "Republic of Turkey"
+  },
+  {
+    "cca2": "TW",
+    "ccn3": "158",
+    "cca3": "TWN",
+    "capital": "Taipei",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "borders": [],
+    "area": 36193,
+    "common": "Taiwan",
+    "official": "Republic of China"
+  },
+  {
+    "cca2": "UZ",
+    "ccn3": "860",
+    "cca3": "UZB",
+    "capital": "Tashkent",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "borders": [
+      "AFG",
+      "KAZ",
+      "KGZ",
+      "TJK",
+      "TKM"
+    ],
+    "area": 447400,
+    "common": "Uzbekistan",
+    "official": "Republic of Uzbekistan"
+  },
+  {
+    "cca2": "VN",
+    "ccn3": "704",
+    "cca3": "VNM",
+    "capital": "Hanoi",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "borders": [
+      "KHM",
+      "CHN",
+      "LAO"
+    ],
+    "area": 331212,
+    "common": "Vietnam",
+    "official": "Socialist Republic of Vietnam"
+  },
+  {
+    "cca2": "YE",
+    "ccn3": "887",
+    "cca3": "YEM",
+    "capital": "Sana'a",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "borders": [
+      "OMN",
+      "SAU"
+    ],
+    "area": 527968,
+    "common": "Yemen",
+    "official": "Republic of Yemen"
+  },
+  {
+    "cca2": "AD",
+    "ccn3": "020",
+    "cca3": "AND",
+    "capital": "Andorra la Vella",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "borders": [
+      "FRA",
+      "ESP"
+    ],
+    "area": 468,
+    "common": "Andorra",
+    "official": "Principality of Andorra"
+  },
+  {
+    "cca2": "AL",
+    "ccn3": "008",
+    "cca3": "ALB",
+    "capital": "Tirana",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "borders": [
+      "MNE",
+      "GRC",
+      "MKD",
+      "KOS"
+    ],
+    "area": 28748,
+    "common": "Albania",
+    "official": "Republic of Albania"
+  },
+  {
+    "cca2": "AT",
+    "ccn3": "040",
+    "cca3": "AUT",
+    "capital": "Vienna",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "borders": [
+      "CZE",
+      "DEU",
+      "HUN",
+      "ITA",
+      "LIE",
+      "SVK",
+      "SVN",
+      "CHE"
+    ],
+    "area": 83871,
+    "common": "Austria",
+    "official": "Republic of Austria"
+  },
+  {
+    "cca2": "AX",
+    "ccn3": "248",
+    "cca3": "ALA",
+    "capital": "Mariehamn",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "borders": [],
+    "area": 1580,
+    "common": "Åland Islands",
+    "official": "Åland Islands"
+  },
+  {
+    "cca2": "BA",
+    "ccn3": "070",
+    "cca3": "BIH",
+    "capital": "Sarajevo",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "borders": [
+      "HRV",
+      "MNE",
+      "SRB"
+    ],
+    "area": 51209,
+    "common": "Bosnia and Herzegovina",
+    "official": "Bosnia and Herzegovina"
+  },
+  {
+    "cca2": "BE",
+    "ccn3": "056",
+    "cca3": "BEL",
+    "capital": "Brussels",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "borders": [
+      "FRA",
+      "DEU",
+      "LUX",
+      "NLD"
+    ],
+    "area": 30528,
+    "common": "Belgium",
+    "official": "Kingdom of Belgium"
+  },
+  {
+    "cca2": "BG",
+    "ccn3": "100",
+    "cca3": "BGR",
+    "capital": "Sofia",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "borders": [
+      "GRC",
+      "MKD",
+      "ROU",
+      "SRB",
+      "TUR"
+    ],
+    "area": 110879,
+    "common": "Bulgaria",
+    "official": "Republic of Bulgaria"
+  },
+  {
+    "cca2": "BY",
+    "ccn3": "112",
+    "cca3": "BLR",
+    "capital": "Minsk",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "borders": [
+      "LVA",
+      "LTU",
+      "POL",
+      "RUS",
+      "UKR"
+    ],
+    "area": 207600,
+    "common": "Belarus",
+    "official": "Republic of Belarus"
+  },
+  {
+    "cca2": "CH",
+    "ccn3": "756",
+    "cca3": "CHE",
+    "capital": "Bern",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "borders": [
+      "AUT",
+      "FRA",
+      "ITA",
+      "LIE",
+      "DEU"
+    ],
+    "area": 41284,
+    "common": "Switzerland",
+    "official": "Swiss Confederation"
+  },
+  {
+    "cca2": "CY",
+    "ccn3": "196",
+    "cca3": "CYP",
+    "capital": "Nicosia",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "borders": [
+      "GBR"
+    ],
+    "area": 9251,
+    "common": "Cyprus",
+    "official": "Republic of Cyprus"
+  },
+  {
+    "cca2": "CZ",
+    "ccn3": "203",
+    "cca3": "CZE",
+    "capital": "Prague",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "borders": [
+      "AUT",
+      "DEU",
+      "POL",
+      "SVK"
+    ],
+    "area": 78865,
+    "common": "Czech Republic",
+    "official": "Czech Republic"
+  },
+  {
+    "cca2": "DE",
+    "ccn3": "276",
+    "cca3": "DEU",
+    "capital": "Berlin",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "borders": [
+      "AUT",
+      "BEL",
+      "CZE",
+      "DNK",
+      "FRA",
+      "LUX",
+      "NLD",
+      "POL",
+      "CHE"
+    ],
+    "area": 357114,
+    "common": "Germany",
+    "official": "Federal Republic of Germany"
+  },
+  {
+    "cca2": "DK",
+    "ccn3": "208",
+    "cca3": "DNK",
+    "capital": "Copenhagen",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "borders": [
+      "DEU"
+    ],
+    "area": 43094,
+    "common": "Denmark",
+    "official": "Kingdom of Denmark"
+  },
+  {
+    "cca2": "EE",
+    "ccn3": "233",
+    "cca3": "EST",
+    "capital": "Tallinn",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "borders": [
+      "LVA",
+      "RUS"
+    ],
+    "area": 45227,
+    "common": "Estonia",
+    "official": "Republic of Estonia"
+  },
+  {
+    "cca2": "ES",
+    "ccn3": "724",
+    "cca3": "ESP",
+    "capital": "Madrid",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "borders": [
+      "AND",
+      "FRA",
+      "GIB",
+      "PRT",
+      "MAR"
+    ],
+    "area": 505992,
+    "common": "Spain",
+    "official": "Kingdom of Spain"
+  },
+  {
+    "cca2": "FI",
+    "ccn3": "246",
+    "cca3": "FIN",
+    "capital": "Helsinki",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "borders": [
+      "NOR",
+      "SWE",
+      "RUS"
+    ],
+    "area": 338424,
+    "common": "Finland",
+    "official": "Republic of FinlandFinland"
+  },
+  {
+    "cca2": "FO",
+    "ccn3": "234",
+    "cca3": "FRO",
+    "capital": "Tórshavn",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "borders": [],
+    "area": 1393,
+    "common": "Faroe Islands",
+    "official": "Faroe Islands"
+  },
+  {
+    "cca2": "FR",
+    "ccn3": "250",
+    "cca3": "FRA",
+    "capital": "Paris",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "borders": [
+      "AND",
+      "BEL",
+      "DEU",
+      "ITA",
+      "LUX",
+      "MCO",
+      "ESP",
+      "CHE"
+    ],
+    "area": 551695,
+    "common": "France",
+    "official": "French Republic"
+  },
+  {
+    "cca2": "GB",
+    "ccn3": "826",
+    "cca3": "GBR",
+    "capital": "London",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "borders": [
+      "IRL"
+    ],
+    "area": 242900,
+    "common": "United Kingdom",
+    "official": "United Kingdom of Great Britain and Northern Ireland"
+  },
+  {
+    "cca2": "GG",
+    "ccn3": "831",
+    "cca3": "GGY",
+    "capital": "St. Peter Port",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "borders": [],
+    "area": 78,
+    "common": "Guernsey",
+    "official": "Bailiwick of Guernsey"
+  },
+  {
+    "cca2": "GI",
+    "ccn3": "292",
+    "cca3": "GIB",
+    "capital": "Gibraltar",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "borders": [
+      "ESP"
+    ],
+    "area": 6,
+    "common": "Gibraltar",
+    "official": "Gibraltar"
+  },
+  {
+    "cca2": "GR",
+    "ccn3": "300",
+    "cca3": "GRC",
+    "capital": "Athens",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "borders": [
+      "ALB",
+      "BGR",
+      "TUR",
+      "MKD"
+    ],
+    "area": 131990,
+    "common": "Greece",
+    "official": "Hellenic Republic"
+  },
+  {
+    "cca2": "HR",
+    "ccn3": "191",
+    "cca3": "HRV",
+    "capital": "Zagreb",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "borders": [
+      "BIH",
+      "HUN",
+      "MNE",
+      "SRB",
+      "SVN"
+    ],
+    "area": 56594,
+    "common": "Croatia",
+    "official": "Republic of Croatia"
+  },
+  {
+    "cca2": "HU",
+    "ccn3": "348",
+    "cca3": "HUN",
+    "capital": "Budapest",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "borders": [
+      "AUT",
+      "HRV",
+      "ROU",
+      "SRB",
+      "SVK",
+      "SVN",
+      "UKR"
+    ],
+    "area": 93028,
+    "common": "Hungary",
+    "official": "Hungary"
+  },
+  {
+    "cca2": "IE",
+    "ccn3": "372",
+    "cca3": "IRL",
+    "capital": "Dublin",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "borders": [
+      "GBR"
+    ],
+    "area": 70273,
+    "common": "Ireland",
+    "official": "Republic of Ireland"
+  },
+  {
+    "cca2": "IM",
+    "ccn3": "833",
+    "cca3": "IMN",
+    "capital": "Douglas",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "borders": [],
+    "area": 572,
+    "common": "Isle of Man",
+    "official": "Isle of Man"
+  },
+  {
+    "cca2": "IS",
+    "ccn3": "352",
+    "cca3": "ISL",
+    "capital": "Reykjavik",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "borders": [],
+    "area": 103000,
+    "common": "Iceland",
+    "official": "Iceland"
+  },
+  {
+    "cca2": "IT",
+    "ccn3": "380",
+    "cca3": "ITA",
+    "capital": "Rome",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "borders": [
+      "AUT",
+      "FRA",
+      "SMR",
+      "SVN",
+      "CHE",
+      "VAT"
+    ],
+    "area": 301336,
+    "common": "Italy",
+    "official": "Italian Republic"
+  },
+  {
+    "cca2": "JE",
+    "ccn3": "832",
+    "cca3": "JEY",
+    "capital": "Saint Helier",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "borders": [],
+    "area": 116,
+    "common": "Jersey",
+    "official": "Bailiwick of Jersey"
+  },
+  {
+    "cca2": "LI",
+    "ccn3": "438",
+    "cca3": "LIE",
+    "capital": "Vaduz",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "borders": [
+      "AUT",
+      "CHE"
+    ],
+    "area": 160,
+    "common": "Liechtenstein",
+    "official": "Principality of Liechtenstein"
+  },
+  {
+    "cca2": "LT",
+    "ccn3": "440",
+    "cca3": "LTU",
+    "capital": "Vilnius",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "borders": [
+      "BLR",
+      "LVA",
+      "POL",
+      "RUS"
+    ],
+    "area": 65300,
+    "common": "Lithuania",
+    "official": "Republic of Lithuania"
+  },
+  {
+    "cca2": "LU",
+    "ccn3": "442",
+    "cca3": "LUX",
+    "capital": "Luxembourg",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "borders": [
+      "BEL",
+      "FRA",
+      "DEU"
+    ],
+    "area": 2586,
+    "common": "Luxembourg",
+    "official": "Grand Duchy of Luxembourg"
+  },
+  {
+    "cca2": "LV",
+    "ccn3": "428",
+    "cca3": "LVA",
+    "capital": "Riga",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "borders": [
+      "BLR",
+      "EST",
+      "LTU",
+      "RUS"
+    ],
+    "area": 64559,
+    "common": "Latvia",
+    "official": "Republic of Latvia"
+  },
+  {
+    "cca2": "MC",
+    "ccn3": "492",
+    "cca3": "MCO",
+    "capital": "Monaco",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "borders": [
+      "FRA"
+    ],
+    "area": 2.02,
+    "common": "Monaco",
+    "official": "Principality of Monaco"
+  },
+  {
+    "cca2": "MD",
+    "ccn3": "498",
+    "cca3": "MDA",
+    "capital": "Chișinău",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "borders": [
+      "ROU",
+      "UKR"
+    ],
+    "area": 33846,
+    "common": "Moldova",
+    "official": "Republic of Moldova"
+  },
+  {
+    "cca2": "ME",
+    "ccn3": "499",
+    "cca3": "MNE",
+    "capital": "Podgorica",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "borders": [
+      "ALB",
+      "BIH",
+      "HRV",
+      "KOS",
+      "SRB"
+    ],
+    "area": 13812,
+    "common": "Montenegro",
+    "official": "Montenegro"
+  },
+  {
+    "cca2": "MK",
+    "ccn3": "807",
+    "cca3": "MKD",
+    "capital": "Skopje",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "borders": [
+      "ALB",
+      "BGR",
+      "GRC",
+      "KOS",
+      "SRB"
+    ],
+    "area": 25713,
+    "common": "Macedonia",
+    "official": "Republic of Macedonia"
+  },
+  {
+    "cca2": "MT",
+    "ccn3": "470",
+    "cca3": "MLT",
+    "capital": "Valletta",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "borders": [],
+    "area": 316,
+    "common": "Malta",
+    "official": "Republic of Malta"
+  },
+  {
+    "cca2": "NL",
+    "ccn3": "528",
+    "cca3": "NLD",
+    "capital": "Amsterdam",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "borders": [
+      "BEL",
+      "DEU"
+    ],
+    "area": 41850,
+    "common": "Netherlands",
+    "official": "Netherlands"
+  },
+  {
+    "cca2": "NO",
+    "ccn3": "578",
+    "cca3": "NOR",
+    "capital": "Oslo",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "borders": [
+      "FIN",
+      "SWE",
+      "RUS"
+    ],
+    "area": 323802,
+    "common": "Norway",
+    "official": "Kingdom of Norway"
+  },
+  {
+    "cca2": "PL",
+    "ccn3": "616",
+    "cca3": "POL",
+    "capital": "Warsaw",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "borders": [
+      "BLR",
+      "CZE",
+      "DEU",
+      "LTU",
+      "RUS",
+      "SVK",
+      "UKR"
+    ],
+    "area": 312679,
+    "common": "Poland",
+    "official": "Republic of Poland"
+  },
+  {
+    "cca2": "PT",
+    "ccn3": "620",
+    "cca3": "PRT",
+    "capital": "Lisbon",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "borders": [
+      "ESP"
+    ],
+    "area": 92090,
+    "common": "Portugal",
+    "official": "Portuguese Republic"
+  },
+  {
+    "cca2": "RO",
+    "ccn3": "642",
+    "cca3": "ROU",
+    "capital": "Bucharest",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "borders": [
+      "BGR",
+      "HUN",
+      "MDA",
+      "SRB",
+      "UKR"
+    ],
+    "area": 238391,
+    "common": "Romania",
+    "official": "Romania"
+  },
+  {
+    "cca2": "RS",
+    "ccn3": "688",
+    "cca3": "SRB",
+    "capital": "Belgrade",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "borders": [
+      "BIH",
+      "BGR",
+      "HRV",
+      "HUN",
+      "KOS",
+      "MKD",
+      "MNE",
+      "ROU"
+    ],
+    "area": 88361,
+    "common": "Serbia",
+    "official": "Republic of Serbia"
+  },
+  {
+    "cca2": "RU",
+    "ccn3": "643",
+    "cca3": "RUS",
+    "capital": "Moscow",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "borders": [
+      "AZE",
+      "BLR",
+      "CHN",
+      "EST",
+      "FIN",
+      "GEO",
+      "KAZ",
+      "PRK",
+      "LVA",
+      "LTU",
+      "MNG",
+      "NOR",
+      "POL",
+      "UKR"
+    ],
+    "area": 17098242,
+    "common": "Russia",
+    "official": "Russian Federation"
+  },
+  {
+    "cca2": "SE",
+    "ccn3": "752",
+    "cca3": "SWE",
+    "capital": "Stockholm",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "borders": [
+      "FIN",
+      "NOR"
+    ],
+    "area": 450295,
+    "common": "Sweden",
+    "official": "Kingdom of Sweden"
+  },
+  {
+    "cca2": "SI",
+    "ccn3": "705",
+    "cca3": "SVN",
+    "capital": "Ljubljana",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "borders": [
+      "AUT",
+      "HRV",
+      "ITA",
+      "HUN"
+    ],
+    "area": 20273,
+    "common": "Slovenia",
+    "official": "Republic of Slovenia"
+  },
+  {
+    "cca2": "SJ",
+    "ccn3": "744",
+    "cca3": "SJM",
+    "capital": "Longyearbyen",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "borders": [],
+    "area": -1,
+    "common": "Svalbard and Jan Mayen",
+    "official": "Svalbard og Jan Mayen"
+  },
+  {
+    "cca2": "SK",
+    "ccn3": "703",
+    "cca3": "SVK",
+    "capital": "Bratislava",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "borders": [
+      "AUT",
+      "CZE",
+      "HUN",
+      "POL",
+      "UKR"
+    ],
+    "area": 49037,
+    "common": "Slovakia",
+    "official": "Slovak Republic"
+  },
+  {
+    "cca2": "SM",
+    "ccn3": "674",
+    "cca3": "SMR",
+    "capital": "City of San Marino",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "borders": [
+      "ITA"
+    ],
+    "area": 61,
+    "common": "San Marino",
+    "official": "Most Serene Republic of San Marino"
+  },
+  {
+    "cca2": "UA",
+    "ccn3": "804",
+    "cca3": "UKR",
+    "capital": "Kiev",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "borders": [
+      "BLR",
+      "HUN",
+      "MDA",
+      "POL",
+      "ROU",
+      "RUS",
+      "SVK"
+    ],
+    "area": 603500,
+    "common": "Ukraine",
+    "official": "Ukraine"
+  },
+  {
+    "cca2": "VA",
+    "ccn3": "336",
+    "cca3": "VAT",
+    "capital": "Vatican City",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "borders": [
+      "ITA"
+    ],
+    "area": 0.44,
+    "common": "Vatican City",
+    "official": "Vatican City State"
+  },
+  {
+    "cca2": "XK",
+    "ccn3": "780",
+    "cca3": "KOS",
+    "capital": "Pristina",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "borders": [
+      "ALB",
+      "MKD",
+      "MNE",
+      "SRB"
+    ],
+    "area": 10908,
+    "common": "Kosovo",
+    "official": "Republic of Kosovo"
+  },
+  {
+    "cca2": "AS",
+    "ccn3": "016",
+    "cca3": "ASM",
+    "capital": "Pago Pago",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "borders": [],
+    "area": 199,
+    "common": "American Samoa",
+    "official": "American Samoa"
+  },
+  {
+    "cca2": "AU",
+    "ccn3": "036",
+    "cca3": "AUS",
+    "capital": "Canberra",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "borders": [],
+    "area": 7692024,
+    "common": "Australia",
+    "official": "Commonwealth of Australia"
+  },
+  {
+    "cca2": "CC",
+    "ccn3": "166",
+    "cca3": "CCK",
+    "capital": "West Island",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "borders": [],
+    "area": 14,
+    "common": "Cocos (Keeling) Islands",
+    "official": "Territory of the Cocos (Keeling) Islands"
+  },
+  {
+    "cca2": "CK",
+    "ccn3": "184",
+    "cca3": "COK",
+    "capital": "Avarua",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "borders": [],
+    "area": 236,
+    "common": "Cook Islands",
+    "official": "Cook Islands"
+  },
+  {
+    "cca2": "CX",
+    "ccn3": "162",
+    "cca3": "CXR",
+    "capital": "Flying Fish Cove",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "borders": [],
+    "area": 135,
+    "common": "Christmas Island",
+    "official": "Territory of Christmas Island"
+  },
+  {
+    "cca2": "FJ",
+    "ccn3": "242",
+    "cca3": "FJI",
+    "capital": "Suva",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "borders": [],
+    "area": 18272,
+    "common": "Fiji",
+    "official": "Republic of Fiji"
+  },
+  {
+    "cca2": "FM",
+    "ccn3": "583",
+    "cca3": "FSM",
+    "capital": "Palikir",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "borders": [],
+    "area": 702,
+    "common": "Micronesia",
+    "official": "Federated States of Micronesia"
+  },
+  {
+    "cca2": "GU",
+    "ccn3": "316",
+    "cca3": "GUM",
+    "capital": "Hagåtña",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "borders": [],
+    "area": 549,
+    "common": "Guam",
+    "official": "Guam"
+  },
+  {
+    "cca2": "KI",
+    "ccn3": "296",
+    "cca3": "KIR",
+    "capital": "South Tarawa",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "borders": [],
+    "area": 811,
+    "common": "Kiribati",
+    "official": "Independent and Sovereign Republic of Kiribati"
+  },
+  {
+    "cca2": "MH",
+    "ccn3": "584",
+    "cca3": "MHL",
+    "capital": "Majuro",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "borders": [],
+    "area": 181,
+    "common": "Marshall Islands",
+    "official": "Republic of the Marshall Islands"
+  },
+  {
+    "cca2": "MP",
+    "ccn3": "580",
+    "cca3": "MNP",
+    "capital": "Saipan",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "borders": [],
+    "area": 464,
+    "common": "Northern Mariana Islands",
+    "official": "Commonwealth of the Northern Mariana Islands"
+  },
+  {
+    "cca2": "NC",
+    "ccn3": "540",
+    "cca3": "NCL",
+    "capital": "Nouméa",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "borders": [],
+    "area": 18575,
+    "common": "New Caledonia",
+    "official": "New Caledonia"
+  },
+  {
+    "cca2": "NF",
+    "ccn3": "574",
+    "cca3": "NFK",
+    "capital": "Kingston",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "borders": [],
+    "area": 36,
+    "common": "Norfolk Island",
+    "official": "Territory of Norfolk Island"
+  },
+  {
+    "cca2": "NR",
+    "ccn3": "520",
+    "cca3": "NRU",
+    "capital": "Yaren",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "borders": [],
+    "area": 21,
+    "common": "Nauru",
+    "official": "Republic of Nauru"
+  },
+  {
+    "cca2": "NU",
+    "ccn3": "570",
+    "cca3": "NIU",
+    "capital": "Alofi",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "borders": [],
+    "area": 260,
+    "common": "Niue",
+    "official": "Niue"
+  },
+  {
+    "cca2": "NZ",
+    "ccn3": "554",
+    "cca3": "NZL",
+    "capital": "Wellington",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "borders": [],
+    "area": 270467,
+    "common": "New Zealand",
+    "official": "New Zealand"
+  },
+  {
+    "cca2": "PF",
+    "ccn3": "258",
+    "cca3": "PYF",
+    "capital": "Papeetē",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "borders": [],
+    "area": 4167,
+    "common": "French Polynesia",
+    "official": "French Polynesia"
+  },
+  {
+    "cca2": "PG",
+    "ccn3": "598",
+    "cca3": "PNG",
+    "capital": "Port Moresby",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "borders": [
+      "IDN"
+    ],
+    "area": 462840,
+    "common": "Papua New Guinea",
+    "official": "Independent State of Papua New Guinea"
+  },
+  {
+    "cca2": "PN",
+    "ccn3": "612",
+    "cca3": "PCN",
+    "capital": "Adamstown",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "borders": [],
+    "area": 47,
+    "common": "Pitcairn Islands",
+    "official": "Pitcairn Group of Islands"
+  },
+  {
+    "cca2": "PW",
+    "ccn3": "585",
+    "cca3": "PLW",
+    "capital": "Ngerulmud",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "borders": [],
+    "area": 459,
+    "common": "Palau",
+    "official": "Republic of Palau"
+  },
+  {
+    "cca2": "SB",
+    "ccn3": "090",
+    "cca3": "SLB",
+    "capital": "Honiara",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "borders": [],
+    "area": 28896,
+    "common": "Solomon Islands",
+    "official": "Solomon Islands"
+  },
+  {
+    "cca2": "TK",
+    "ccn3": "772",
+    "cca3": "TKL",
+    "capital": "Fakaofo",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "borders": [],
+    "area": 12,
+    "common": "Tokelau",
+    "official": "Tokelau"
+  },
+  {
+    "cca2": "TO",
+    "ccn3": "776",
+    "cca3": "TON",
+    "capital": "Nuku'alofa",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "borders": [],
+    "area": 747,
+    "common": "Tonga",
+    "official": "Kingdom of Tonga"
+  },
+  {
+    "cca2": "TV",
+    "ccn3": "798",
+    "cca3": "TUV",
+    "capital": "Funafuti",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "borders": [],
+    "area": 26,
+    "common": "Tuvalu",
+    "official": "Tuvalu"
+  },
+  {
+    "cca2": "VU",
+    "ccn3": "548",
+    "cca3": "VUT",
+    "capital": "Port Vila",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "borders": [],
+    "area": 12189,
+    "common": "Vanuatu",
+    "official": "Republic of Vanuatu"
+  },
+  {
+    "cca2": "WF",
+    "ccn3": "876",
+    "cca3": "WLF",
+    "capital": "Mata-Utu",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "borders": [],
+    "area": 142,
+    "common": "Wallis and Futuna",
+    "official": "Territory of the Wallis and Futuna Islands"
+  },
+  {
+    "cca2": "WS",
+    "ccn3": "882",
+    "cca3": "WSM",
+    "capital": "Apia",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "borders": [],
+    "area": 2842,
+    "common": "Samoa",
+    "official": "Independent State of Samoa"
+  }
+]
